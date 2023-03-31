@@ -38,14 +38,14 @@ Para utilizar el proyecto en tu ordenador, sigue los siguientes pasos:
 
 Página principal del proyecto:
 
-![Pagina deinicio](screenshot1.png)
+![Pagina deinicio](https://github.com/giselledonari/Cartones-de-loteria/blob/main/git/scr1.PNG)
 
 Página de creación de nuevos cartones:
 
-![Nuevos Cartones](screenshot2.png)
+![Nuevos Cartones](https://github.com/giselledonari/Cartones-de-loteria/blob/main/git/scr2.PNG)
 
 Página de visualización de todos los cartones:
 
-![Todos los cartones](screenshot3.png)
+![Todos los cartones](https://github.com/giselledonari/Cartones-de-loteria/blob/main/git/scr3.PNG)
 
 
